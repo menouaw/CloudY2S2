@@ -4,7 +4,7 @@
   "dependencies": {
     "cf-deployment-tracker-client": "*",
     "cfenv": "^1.0.3",
-    "express": "~4.x",
+    "express": "^4.21.2",
     "extend": "^3.0.0",
     "s3": "^4.4.0",
     "s3-lister": "^0.1.0",
